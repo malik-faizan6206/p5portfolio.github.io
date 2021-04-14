@@ -1,0 +1,21 @@
+.latest_news{
+    height: 50px; 
+   width: 50px;
+}
+.news_heading{
+   display: inline-block;     
+color: red;
+margin-left: 5px;
+}
+.news_p{
+   margin-left: 20px;
+   font-size: 15px;
+}
+a{
+           text-decoration: none;
+}
+ul li{
+           list-style-type: none;
+           text-transform: uppercase;
+           padding: 10px 15px;
+       }
